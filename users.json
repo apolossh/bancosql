@@ -1,14 +1,16 @@
 {
   "users": [
     {
-      "id": 1,
       "username": "admin",
       "password": "admin"
     },
     {
-      "id": 2,
-      "username": "janedoe",
-      "password": "hashed_password_abc456"
+      "username": "user2",
+      "password": "password2"
+    },
+    {
+      "username": "user3",
+      "password": "password3"
     }
   ]
 }
